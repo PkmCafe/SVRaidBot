@@ -3240,7 +3240,7 @@ namespace SysBot.Pokemon.SV.BotRaid
             }
 
             string disclaimer = _settings.ActiveRaids.Count > 1
-                                ? $"notpaldea.net"
+                                ? $"PkmCafe.com"
                                 : "";
 
             var turl = string.Empty;
